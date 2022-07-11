@@ -3,8 +3,8 @@
 # Olá! Eu sou a Luiza Uszacki
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizauszacki&style=flat-square&color=ff69b4" alt="Profile views" /> </p>
 
-- 📕 Atualmente estou estudando Sass e buscando praticar HTML, CSS e JavaSacript
-- 💻 Estou buscando trabalhar com desenvolvimento Web Front End
+- 📕 Atualmente estou estudando Sass e praticando HTML, CSS e JavaSacript
+- 💻 Busco trabalhar com desenvolvimento Web Front End
 - 🙂 Pronomes: ela/dela
 
 <div>
