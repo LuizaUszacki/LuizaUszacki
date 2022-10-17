@@ -1,6 +1,6 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/105115163/178321089-2bf7445f-77f2-4b77-9a3a-e1df90e0919c.gif" />
 
-# Olá! Eu sou a Luiza Uszacki
+# Hi! I'm Luiza Uszacki
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizauszacki&style=flat-square&color=ff69b4" alt="Profile views" /> </p>
 
 
