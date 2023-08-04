@@ -1,6 +1,15 @@
+# Hi! I'm Luiza Uszacki
+
+
+
+
+
+
+<!---
+
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/105115163/178321089-2bf7445f-77f2-4b77-9a3a-e1df90e0919c.gif" />
 
-# Hi! I'm Luiza Uszacki
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizauszacki&style=flat-square&color=ff69b4" alt="Profile views" /> </p>
 
 
@@ -26,3 +35,4 @@
  </div>
  
  ![Snake animation](https://github.com/LuizaUszacki/LuizaUszacki/blob/output/github-contribution-grid-snake.svg)
+--->
